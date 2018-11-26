@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-sm-6"><img src="me.jpg" width="475px"></div>
+    <div class="col-sm-6">
+        <p>
+            <p> <strong> vova kappralov </strong></p>
+            <p> age 26</p>
+            <p>Studying in jhon bryce</p>
+            <p>Course Full-stack</p>
+            <h3> Project Completion Summary Topics </h3>
+
+            <h4> AJAX-JQUERY API PROJECT
+                In this project we present every change of crypto-coin every 2 seconds of the world market that you can
+                stay updated</h4>
+        </p>
+    </div>
+
+</div>

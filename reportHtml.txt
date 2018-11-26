@@ -1,0 +1,6 @@
+<div class="" id="chartCon" style="height: 370px; width: 100%;">
+    <div class="noChart">
+        <h1>No Coins selected for graph display</h1>
+        <h2>Please return to Home page and select at list one coin</h2>
+    </div>
+</div>
